@@ -19,8 +19,8 @@ The main reason I created it is:
 - [Packetevents](https://www.spigotmc.org/resources/packetevents-api.80279/)
 
 ### instalacion
-- Instale el plugin [GeyserMoreRows](https://geysermc.org/download/) en su carpeta de complementos
-- Instale el [TexturePack](https://geysermc.org/download/) en la siguiente ruta "plugins/Geyser-Spigot/packs"
+- Instale el plugin [GeyserMoreRows](https://github.com/Hurbanod/GeyserMoreRows_ES/releases/tag/GeyserMoreRows) en su carpeta de complementos
+- Instale el [TexturePack](https://github.com/Hurbanod/GeyserMoreRows_ES/releases/tag/GeyserMoreRows) en la siguiente ruta "plugins/Geyser-Spigot/packs"
 
 
 
