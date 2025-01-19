@@ -13,7 +13,7 @@ automáticamente rellena los espacios vacíos con bloques de "barrier". Esto pue
 visualmente incómodo para los jugadores de Bedrock.
 
 ### Requerimientos
-The main reason I created it is:
+
 - [GeyserMC](https://geysermc.org/download/)
 - [Floodgate](https://geysermc.org/download/?project=floodgate)
 - [Packetevents](https://www.spigotmc.org/resources/packetevents-api.80279/)
