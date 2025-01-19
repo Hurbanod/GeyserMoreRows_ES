@@ -1,6 +1,6 @@
 <div align="center">  
 
-![0](https://github.com/user-attachments/assets/4cb52a01-b938-42f4-ade6-83b33ce53320)
+![0]([https://github.com/user-attachments/assets/4cb52a01-b938-42f4-ade6-83b33ce53320](https://github.com/user-attachments/assets/571a98aa-acd9-49a8-b1b9-582c69ad81f5))
 
 Bienvenido!
 
