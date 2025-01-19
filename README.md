@@ -1,6 +1,6 @@
 <div align="center">  
 
-![0]([https://github.com/user-attachments/assets/4cb52a01-b938-42f4-ade6-83b33ce53320](https://github.com/Hurbanod/GeyserMoreRows_ES/commits/GeyserMoreRows])
+![0](https://github.com/user-attachments/assets/4cb52a01-b938-42f4-ade6-83b33ce53320)
 
 Bienvenido!
 
